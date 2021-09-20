@@ -1,4 +1,4 @@
-# NoteApp
+# Noteture
 A simple note taking app
 
 NoteApp is a React app for note taking that uses local storage to save notes.
@@ -11,4 +11,3 @@ Some features of the note app include:
 4. Deleting all notes.
 5. Dark or Light mode. 
 
-It is deployed [here](https://sarahchima.github.io/NoteApp/)
